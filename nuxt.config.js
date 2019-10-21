@@ -41,8 +41,5 @@ export default {
   },
   build: {
     extend(config, ctx) {}
-  },
-  router: {
-    base: '/eganjs.io/'
   }
 }
